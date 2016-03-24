@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-cmd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hain plugin to execute commands with cmd.exe",
   "main": "index.js",
   "scripts": {},
@@ -10,6 +10,9 @@
   },
   "author": "Kazakuri",
   "license": "MIT",
+  "keywords": [
+    "hain0"
+  ],
   "bugs": {
     "url": "https://github.com/Kazakuri/hain-plugin-cmd/issues"
   },
