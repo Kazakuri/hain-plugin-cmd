@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-cmd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "hain plugin to execute commands with cmd.exe",
   "main": "index.js",
   "scripts": {},
