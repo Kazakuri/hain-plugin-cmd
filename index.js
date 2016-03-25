@@ -2,7 +2,7 @@
   'use strict';
 
   const os = require('os');
-  const spawn = require('child_process').spawn;
+  const spawn = require('child_process').execFile;
 
   module.exports = (context) => {
     function search(query, res) {
