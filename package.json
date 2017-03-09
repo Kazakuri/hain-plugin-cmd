@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/Kazakuri/hain-plugin-cmd#readme",
   "hain": {
-    "prefix": ">",
-    "usage": "> command",
+    "prefix": "/command",
+    "usage": "/command something",
     "icon": "#fa fa-terminal",
-    "redirect": "> "
+    "redirect": "/command "
   }
 }
